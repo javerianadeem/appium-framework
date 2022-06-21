@@ -1,0 +1,8 @@
+com\qa\android\pages\Modals.class
+com\qa\android\pages\Bogo.class
+com\qa\android\pages\FooterElements.class
+com\qa\android\test\BogoTest.class
+com\qa\android\test\AppFactory.class
+com\qa\android\pages\CityScreen.class
+com\qa\android\util\TestUtils.class
+com\qa\android\util\TestUtil.class
